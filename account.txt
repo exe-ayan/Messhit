@@ -1,3 +1,74 @@
-....
-
-Paste Your FB JSON COOKIES ✅
+[
+    {
+        "key": "datr",
+        "value": "am1ZavCO50CnC_YLxcOws9nb",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.039Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "sb",
+        "value": "am1ZaqdWEMnt7TkQXEiOnAAM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.225000023841858",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61583248937464",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "xs",
+        "value": "48%3AWn04B5s98Xn4nw%3A2%3A1784245912%3A-1%3A-1%3A%3AAczmCXlyZBpAotopkDASm3U5mCY0gDJmrjzoTjxMHA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "fr",
+        "value": "2WvEv10lVJkE3cuNA.AWdx2LLz0hkSBUsRCJ1aVPmj3bFU_vhotTmvREzK5Q2-ap8IsfI.BqWW6b..AAA.0.0.BqWW7v.AWdDErVG6mIYsRdpFRPLlmE0tAI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1784246027041%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    },
+    {
+        "key": "wd",
+        "value": "655x877",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-07-16T23:57:30.043Z",
+        "lastAccessed": "2026-07-16T23:57:30.043Z"
+    }
+]
